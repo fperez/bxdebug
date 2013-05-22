@@ -34,6 +34,8 @@ IndexError: index 32 is out of bounds for axis 1 with size 25
 
 %run test_part.py
 
+6. And one last one, rob_g3.npy has a new error that may be related to hierarchical partitioning
+
 ########################################################################################################
 
 # More detailed info.  What follows is just more detail, all commands that
